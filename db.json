@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "7a21f8e9-8d6e-4e97-82a3-6a6b8dd7fbdd",
+      "name": "anton",
+      "number": "212121212"
+    },
+    {
+      "id": "9b6af2ff-992c-4c2a-8e94-c590422d39e9",
+      "name": "ivan",
+      "number": "212121212"
+    },
+    {
+      "id": "2c6a4503-27ee-4ef2-85b3-05e119024007",
+      "name": "asasasa",
+      "number": "21212121"
+    },
+    {
+      "id": "fa1380b9-0b54-4d3f-813a-57ddc37bb95b",
+      "name": "antonio",
+      "number": "787877877"
+    },
+    {
+      "id": "b9f925bf-8c6a-4f6e-8495-4c718344f7b9",
+      "name": "sergey",
+      "number": "212122121"
+    }
+  ]
+}
